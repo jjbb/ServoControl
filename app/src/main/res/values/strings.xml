@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ServoControl</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="rot">Rot</string>
+    <string name="hand">Hand</string>
+    <string name="add">+</string>
+    <string name="cmd_choose">指令选择</string>
+    <string name="servo_fine_adj">微调舵机</string>
+    <string name="initServoPos">X:0, Y:0</string>
+</resources>
